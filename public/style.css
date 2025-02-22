@@ -1,0 +1,65 @@
+h1{
+    color:#FFB22C;
+text-align: center;
+}
+h2{
+    color: orange;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   word-wrap: break-word;
+}
+
+.post{
+    color: black;
+}
+.user{
+    color:black;
+font-style: italic;
+text-align: center;
+
+}
+body{
+    background-color:black;
+}
+
+
+div{
+    background-color:#FFB22C;
+    position: relative;
+    height: 30%;
+    border-radius: 10%;
+    text-align: center;
+
+}
+    .butt{
+        background-color:#FFB22C;
+       color: black;
+       position: absolute;
+       top: 80%;
+       left: 80%;
+       border-radius: 25%;
+    }
+    .butt:hover{
+        background-color: #F7F7F7;
+    }
+    a{
+        color: rgb(27, 16, 16);
+        
+    }
+    a:hover{
+        color: #854836;
+    }
+    .content{
+        color: black;
+        
+    }
+    .create{
+        color: aliceblue;
+    }
+    .create:hover{
+        color: rgb(223, 72, 52);
+    }
+
+    
+    
