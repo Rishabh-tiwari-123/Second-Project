@@ -29,7 +29,7 @@ npm i nodemon
 ## Endpoints
 
 - `http://localhost:3000/posts/uuid`:Retrieve information of ur content
--`http://localhost:3000/posts/uuid/edit: Edit information of content
+-`http://localhost:3000/posts/uuid/edit`: Edit information of content
 
 
 ## Contributing
